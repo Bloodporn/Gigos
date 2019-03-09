@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemi
   layers:
   - Default
   - TransparentFX
@@ -14,10 +15,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - NeWall
+  - Newall2
+  - Player
+  - Vrag
   - 
   - 
   - 
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3564807113
+    locked: 0
+  - name: MidGround
+    uniqueID: 41406349
+    locked: 0
+  - name: MidGround2
+    uniqueID: 2445946943
+    locked: 0
+  - name: FrontGround
+    uniqueID: 3101524621
     locked: 0

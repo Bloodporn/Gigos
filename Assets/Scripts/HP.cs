@@ -38,7 +38,7 @@ public class HP : MonoBehaviour
 
     public static void AdjustCurrentValue(float adjust)
     {
-        current += adjust;
+        current = adjust;
     }
 }
 

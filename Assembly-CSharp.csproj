@@ -67,6 +67,9 @@
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\HP.cs" />
     <Compile Include="Assets\Scripts\Intaractive.cs" />
+    <Compile Include="Assets\Scripts\Ladder.cs" />
+    <Compile Include="Assets\Scripts\LadderEditor.cs" />
+    <Compile Include="Assets\Scripts\LadderManager.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\RoomButton.cs" />
